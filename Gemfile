@@ -6,4 +6,5 @@ gem "growl"
 gem "guard-bundler"
 gem "guard-cucumber"
 
+gem "rspec"
 gem "cucumber"
